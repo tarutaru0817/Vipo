@@ -31,7 +31,7 @@ PHP自作
 会員ユーザの機能に加え、ユーザ一覧・削除機能が利用可能です。
 
 ## 環境
-ZAMPP/MySQL/PHP
+ZAMPP/MySQL/PHP/Laravel
 
 ## データベース
 DB名：vipo
